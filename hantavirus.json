@@ -9,12 +9,12 @@
     { "name": "North America", "latitude": 40.0, "longitude": -100.0, "intensity": 0.55 },
     { "name": "South America", "latitude": -15.0, "longitude": -60.0, "intensity": 0.30 }
     {
-  "name": "Europe",
+  "name": "Switzerland",
   "latitude": 50.0,
   "longitude": 10.0,
   "intensity": 0.45,
-  "infected": 420,
-  "deaths": 9
+  "infected": 1,
+  "deaths": 0
 }
   ]
 }
