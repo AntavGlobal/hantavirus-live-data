@@ -1,8 +1,8 @@
 {
-  "latestUpdateAt": "2026-05-06T21:56:00Z",
-  "latestUpdate": "2026-05-06",
-  "infected": 8,
-  "deaths": 3,
+  "latestUpdateAt": "2026-05-07T00:00:00Z",
+  "latestUpdate": "2026-05-07",
+  "infected": 0,
+  "deaths": 0,
   "symptoms": [
     "Fever",
     "Headache",
@@ -12,22 +12,924 @@
   ],
   "zones": [
     {
-      "name": "Switzerland Zone",
-      "country": "Germany",
-      "infected": 1,
+      "name": "Afghanistan",
+      "country": "Afghanistan",
+      "infected": 0,
       "deaths": 0
     },
     {
-      "name": "Spain Zone",
-      "country": "Switzerland",
-      "infected": 7,
-      "deaths": 3
+      "name": "Albania",
+      "country": "Albania",
+      "infected": 0,
+      "deaths": 0
     },
     {
-      "name": "Brazil Zone",
+      "name": "Algeria",
+      "country": "Algeria",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Angola",
+      "country": "Angola",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Antarctica",
+      "country": "Antarctica",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Argentina",
+      "country": "Argentina",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Armenia",
+      "country": "Armenia",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Australia",
+      "country": "Australia",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Austria",
+      "country": "Austria",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Azerbaijan",
+      "country": "Azerbaijan",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Bangladesh",
+      "country": "Bangladesh",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Belarus",
+      "country": "Belarus",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Belgium",
+      "country": "Belgium",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Belize",
+      "country": "Belize",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Benin",
+      "country": "Benin",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Bhutan",
+      "country": "Bhutan",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Bolivia",
+      "country": "Bolivia",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "country": "Bosnia and Herzegovina",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Botswana",
+      "country": "Botswana",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Brazil",
       "country": "Brazil",
       "infected": 0,
       "deaths": 0
-    }
-  ]
-}
+    },
+    {
+      "name": "Brunei",
+      "country": "Brunei",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Bulgaria",
+      "country": "Bulgaria",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Burkina Faso",
+      "country": "Burkina Faso",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Burundi",
+      "country": "Burundi",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Cambodia",
+      "country": "Cambodia",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Cameroon",
+      "country": "Cameroon",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Canada",
+      "country": "Canada",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Central African Republic",
+      "country": "Central African Republic",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Chad",
+      "country": "Chad",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Chile",
+      "country": "Chile",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "China",
+      "country": "China",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Colombia",
+      "country": "Colombia",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Costa Rica",
+      "country": "Costa Rica",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Croatia",
+      "country": "Croatia",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Cuba",
+      "country": "Cuba",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Cyprus",
+      "country": "Cyprus",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Czech Republic",
+      "country": "Czech Republic",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Democratic Republic of the Congo",
+      "country": "Democratic Republic of the Congo",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Denmark",
+      "country": "Denmark",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Djibouti",
+      "country": "Djibouti",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Dominican Republic",
+      "country": "Dominican Republic",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "East Timor",
+      "country": "East Timor",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Ecuador",
+      "country": "Ecuador",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Egypt",
+      "country": "Egypt",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "El Salvador",
+      "country": "El Salvador",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "England",
+      "country": "England",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Equatorial Guinea",
+      "country": "Equatorial Guinea",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Eritrea",
+      "country": "Eritrea",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Estonia",
+      "country": "Estonia",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Ethiopia",
+      "country": "Ethiopia",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Falkland Islands",
+      "country": "Falkland Islands",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Fiji",
+      "country": "Fiji",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Finland",
+      "country": "Finland",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "France",
+      "country": "France",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "French Southern and Antarctic Lands",
+      "country": "French Southern and Antarctic Lands",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Gabon",
+      "country": "Gabon",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Gambia",
+      "country": "Gambia",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Georgia",
+      "country": "Georgia",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Germany",
+      "country": "Germany",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Ghana",
+      "country": "Ghana",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Greece",
+      "country": "Greece",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Greenland",
+      "country": "Greenland",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Guatemala",
+      "country": "Guatemala",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Guinea",
+      "country": "Guinea",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Guinea Bissau",
+      "country": "Guinea Bissau",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Guyana",
+      "country": "Guyana",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Haiti",
+      "country": "Haiti",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Honduras",
+      "country": "Honduras",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Hungary",
+      "country": "Hungary",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Iceland",
+      "country": "Iceland",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "India",
+      "country": "India",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Indonesia",
+      "country": "Indonesia",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Iran",
+      "country": "Iran",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Iraq",
+      "country": "Iraq",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Ireland",
+      "country": "Ireland",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Israel",
+      "country": "Israel",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Italy",
+      "country": "Italy",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Ivory Coast",
+      "country": "Ivory Coast",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Jamaica",
+      "country": "Jamaica",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Japan",
+      "country": "Japan",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Jordan",
+      "country": "Jordan",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Kazakhstan",
+      "country": "Kazakhstan",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Kenya",
+      "country": "Kenya",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Kosovo",
+      "country": "Kosovo",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Kuwait",
+      "country": "Kuwait",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Kyrgyzstan",
+      "country": "Kyrgyzstan",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Laos",
+      "country": "Laos",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Latvia",
+      "country": "Latvia",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Lebanon",
+      "country": "Lebanon",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Lesotho",
+      "country": "Lesotho",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Liberia",
+      "country": "Liberia",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Libya",
+      "country": "Libya",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Lithuania",
+      "country": "Lithuania",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Luxembourg",
+      "country": "Luxembourg",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Macedonia",
+      "country": "Macedonia",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Madagascar",
+      "country": "Madagascar",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Malawi",
+      "country": "Malawi",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Malaysia",
+      "country": "Malaysia",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Mali",
+      "country": "Mali",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Mauritania",
+      "country": "Mauritania",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Mexico",
+      "country": "Mexico",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Moldova",
+      "country": "Moldova",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Mongolia",
+      "country": "Mongolia",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Montenegro",
+      "country": "Montenegro",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Morocco",
+      "country": "Morocco",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Mozambique",
+      "country": "Mozambique",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Myanmar",
+      "country": "Myanmar",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Namibia",
+      "country": "Namibia",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Nepal",
+      "country": "Nepal",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Netherlands",
+      "country": "Netherlands",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "New Caledonia",
+      "country": "New Caledonia",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "New Zealand",
+      "country": "New Zealand",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Nicaragua",
+      "country": "Nicaragua",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Niger",
+      "country": "Niger",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Nigeria",
+      "country": "Nigeria",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "North Korea",
+      "country": "North Korea",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Northern Cyprus",
+      "country": "Northern Cyprus",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Norway",
+      "country": "Norway",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Oman",
+      "country": "Oman",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Pakistan",
+      "country": "Pakistan",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Panama",
+      "country": "Panama",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Papua New Guinea",
+      "country": "Papua New Guinea",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Paraguay",
+      "country": "Paraguay",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Peru",
+      "country": "Peru",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Philippines",
+      "country": "Philippines",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Poland",
+      "country": "Poland",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Portugal",
+      "country": "Portugal",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Puerto Rico",
+      "country": "Puerto Rico",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Qatar",
+      "country": "Qatar",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Republic of Serbia",
+      "country": "Republic of Serbia",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Republic of the Congo",
+      "country": "Republic of the Congo",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Romania",
+      "country": "Romania",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Russia",
+      "country": "Russia",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Rwanda",
+      "country": "Rwanda",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Saudi Arabia",
+      "country": "Saudi Arabia",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Senegal",
+      "country": "Senegal",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Sierra Leone",
+      "country": "Sierra Leone",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Slovakia",
+      "country": "Slovakia",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Slovenia",
+      "country": "Slovenia",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Solomon Islands",
+      "country": "Solomon Islands",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Somalia",
+      "country": "Somalia",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Somaliland",
+      "country": "Somaliland",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "South Africa",
+      "country": "South Africa",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "South Korea",
+      "country": "South Korea",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "South Sudan",
+      "country": "South Sudan",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Spain",
+      "country": "Spain",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Sri Lanka",
+      "country": "Sri Lanka",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Sudan",
+      "country": "Sudan",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Suriname",
+      "country": "Suriname",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Swaziland",
+      "country": "Swaziland",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Sweden",
+      "country": "Sweden",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Switzerland",
+      "country": "Switzerland",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Syria",
+      "country": "Syria",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Taiwan",
+      "country": "Taiwan",
+      "infected":
