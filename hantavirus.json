@@ -4,11 +4,11 @@
   "infected": 8,
   "deaths": 3,
   "symptoms": [
-    "Fever",
-    "Headache",
-    "Muscle aches",
-    "Fatigue",
-    "Nausea"
+    "Early symptoms: Fatigue, fever, muscle aches",
+    "Abour half of all HPS patients also experience: Headaches, dizziness, chills, abdominal problems",
+    "4 to 10 days after initial phase of illness late symptoms of HPS appear",
+    "Late symptoms: Coughing and shortness of breath. Patients might experience tightness in the chest, as the lungs fill with fluid.",
+    "HPS can be deadly. Thirty-eight percent of people who develop respiratory symptoms may die from the disease."
   ],
   "zones": [
     {
