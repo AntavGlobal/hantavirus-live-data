@@ -1,20 +1,33 @@
 {
-  "latestUpdateAt": "2026-05-06T20:31:00Z",
+  "latestUpdateAt": "2026-05-06T21:56:00Z",
   "latestUpdate": "2026-05-06",
   "infected": 8,
   "deaths": 3,
-  "symptoms": ["Fever", "Headache", "Muscle aches", "Fatigue", "Nausea"],
+  "symptoms": [
+    "Fever",
+    "Headache",
+    "Muscle aches",
+    "Fatigue",
+    "Nausea"
+  ],
   "zones": [
-    { "name": "Europe", "latitude": 50.0, "longitude": 10.0, "intensity": 0.45 },
-    { "name": "North America", "latitude": 40.0, "longitude": -100.0, "intensity": 0.55 },
-    { "name": "South America", "latitude": -15.0, "longitude": -60.0, "intensity": 0.30 }
     {
-  "name": "Switzerland",
-  "latitude": 50.0,
-  "longitude": 10.0,
-  "intensity": 0.45,
-  "infected": 1,
-  "deaths": 0
-}
+      "name": "Switzerland Zone",
+      "country": "Germany",
+      "infected": 1,
+      "deaths": 0
+    },
+    {
+      "name": "Spain Zone",
+      "country": "Switzerland",
+      "infected": 7,
+      "deaths": 3
+    },
+    {
+      "name": "Brazil Zone",
+      "country": "Brazil",
+      "infected": 0,
+      "deaths": 0
+    }
   ]
 }
