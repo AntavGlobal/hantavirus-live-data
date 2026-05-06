@@ -44,8 +44,8 @@
     {
       "name": "Argentina",
       "country": "Argentina",
-      "infected": 0,
-      "deaths": 0
+      "infected": 7,
+      "deaths": 3
     },
     {
       "name": "Armenia",
