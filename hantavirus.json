@@ -3,5 +3,18 @@
   "latestUpdate": "2026-05-06",
   "infected": 8,
   "deaths": 3,
-  "symptoms": ["Fever", "Headache", "Muscle aches", "Fatigue", "Nausea"]
+  "symptoms": ["Fever", "Headache", "Muscle aches", "Fatigue", "Nausea"],
+  "zones": [
+    { "name": "Europe", "latitude": 50.0, "longitude": 10.0, "intensity": 0.45 },
+    { "name": "North America", "latitude": 40.0, "longitude": -100.0, "intensity": 0.55 },
+    { "name": "South America", "latitude": -15.0, "longitude": -60.0, "intensity": 0.30 }
+    {
+  "name": "Europe",
+  "latitude": 50.0,
+  "longitude": 10.0,
+  "intensity": 0.45,
+  "infected": 420,
+  "deaths": 9
+}
+  ]
 }
