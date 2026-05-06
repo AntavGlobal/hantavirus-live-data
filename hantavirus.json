@@ -932,4 +932,146 @@
     {
       "name": "Taiwan",
       "country": "Taiwan",
-      "infected":
+      "infected": 0
+      "deaths": 0
+      },
+    {
+      "name": "Tajikistan",
+      "country": "Tajikistan",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Thailand",
+      "country": "Thailand",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "The Bahamas",
+      "country": "The Bahamas",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Togo",
+      "country": "Togo",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "country": "Trinidad and Tobago",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Tunisia",
+      "country": "Tunisia",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Turkey",
+      "country": "Turkey",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Turkmenistan",
+      "country": "Turkmenistan",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "USA",
+      "country": "USA",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Uganda",
+      "country": "Uganda",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Ukraine",
+      "country": "Ukraine",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "United Arab Emirates",
+      "country": "United Arab Emirates",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "United Republic of Tanzania",
+      "country": "United Republic of Tanzania",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Uruguay",
+      "country": "Uruguay",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Uzbekistan",
+      "country": "Uzbekistan",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Vanuatu",
+      "country": "Vanuatu",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Venezuela",
+      "country": "Venezuela",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Vietnam",
+      "country": "Vietnam",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "West Bank",
+      "country": "West Bank",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Western Sahara",
+      "country": "Western Sahara",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Yemen",
+      "country": "Yemen",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Zambia",
+      "country": "Zambia",
+      "infected": 0,
+      "deaths": 0
+    },
+    {
+      "name": "Zimbabwe",
+      "country": "Zimbabwe",
+      "infected": 0,
+      "deaths": 0
+    }
+  ]
+}
