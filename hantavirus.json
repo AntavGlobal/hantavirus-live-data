@@ -1,6 +1,7 @@
 {
+  "latestUpdateAt": "2026-05-06T20:31:00Z",
   "latestUpdate": "2026-05-06",
-  "infected": 8,
-  "deaths": 3,
+  "infected": 1240,
+  "deaths": 28,
   "symptoms": ["Fever", "Headache", "Muscle aches", "Fatigue", "Nausea"]
 }
