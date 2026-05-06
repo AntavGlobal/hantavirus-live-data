@@ -1,8 +1,8 @@
 {
   "latestUpdateAt": "2026-05-07T00:00:00Z",
   "latestUpdate": "2026-05-07",
-  "infected": 0,
-  "deaths": 0,
+  "infected": 8,
+  "deaths": 3,
   "symptoms": [
     "Fever",
     "Headache",
@@ -920,7 +920,7 @@
     {
       "name": "Switzerland",
       "country": "Switzerland",
-      "infected": 0,
+      "infected": 1,
       "deaths": 0
     },
     {
